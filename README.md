@@ -12,7 +12,6 @@
 如果需要取得最新版本的資訊，你可以在以下電子書店找到這本書： 
 - [Readmoo](https://bit.ly/Readmoo-SwiftGo) (多種台灣付費方式)
 - [Leanpub](https://bit.ly/Leanpub-SwiftGo) (使用 Paypal 付費)
-- [Pubu](https://bit.ly/Pubu-SwiftGo) (支付寶及多種台灣付費方式)
 
 或是[免費線上完整試閱](https://bit.ly/GitBook-SwiftGo)前一版本的內容
 
