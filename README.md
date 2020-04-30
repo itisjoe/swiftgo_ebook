@@ -1,18 +1,17 @@
-# 這裡是 **Swift 起步走** 免費試閱電子書
+# **Swift 起步走** 電子書
 
-這裡提供前一版本的完整內容
-
-請先下載以下三個檔案
+請先下載以下 2 個檔案
 - swiftgo.zip.001
 - swiftgo.zip.002
-- swiftgo.zip.003
 
-解壓縮後即可得到一個 swiftgo.pdf 檔案
+解壓縮後(可使用 7-Zip 軟體)即可得到一個 swiftgo.pdf 檔案
 
-如果需要取得最新版本的資訊，你可以在以下電子書店找到這本書： 
-- [Readmoo](https://bit.ly/Readmoo-SwiftGo) (多種台灣付費方式)
-- [Leanpub](https://bit.ly/Leanpub-SwiftGo) (使用 Paypal 付費)
+或是前往閱讀[線上版](https://bit.ly/GitBook-SwiftGo)
 
-或是[免費線上完整試閱](https://bit.ly/GitBook-SwiftGo)前一版本的內容
+
+如果覺得本書對你有幫助，歡迎請我喝杯咖啡 😘
+- [歐付寶](https://payment.opay.tw/Broadcaster/Donate/2D4FF6ECE06312CE5D0D19F2BA7F7103)
+- [Paypal](https://www.paypal.me/chiao963)
+
 
 有任何問題、建議或指教，歡迎到[ FB 專頁](https://www.facebook.com/swiftgogogo)與我聯絡。
